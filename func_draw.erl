@@ -1,4 +1,4 @@
--module(func).
+-module(func_draw).
 -compile(export_all).
 -include_lib("wx/include/wx.hrl").
 
